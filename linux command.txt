@@ -46,3 +46,6 @@ Search and Find:
 Compression / Archives: 
  
 ● tar -cvf archive.tar dirname/: Create a tar archive. ● tar -xvf archive.tar: Extract a tar archive. ● tar -jcvf archive.tar.bz2 dirname/: Create a compressed bz2 archive. ● tar -jxvf archive.tar.bz2: Extract a bz2 archive
+
+
+welcome
